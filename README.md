@@ -1,4 +1,4 @@
-# mentalista
+# Mentalista
 Projeto desenvolvido inicialmente durante a imersão dev da Alura e melhorado para servir como um trabalho para a disciplina de Raciocínio Lógico da faculdade.
 
 Comecei a desenvolver o projeto na imersão dev e posteriormente o aprimorei para ser usado como um trabalho da faculdade. Para isso fiz melhorias no css e adicionei uma função de reset ao projeto que permite o usuário fazer a máquina escolher outro número.
